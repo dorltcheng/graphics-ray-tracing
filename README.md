@@ -1,4 +1,4 @@
-# graphics-ray-tracing
+# Computer Graphics Ray Tracing
 
 Coursework for COMP60005 Graphics, from Department of Computing, Imperial College London
 
